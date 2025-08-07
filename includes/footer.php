@@ -4,8 +4,7 @@
             <!-- Clinic Info -->
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="d-flex align-items-center mb-3">
-                    <i class="fas fa-tooth text-primary me-2 fs-3"></i>
-                    <h5 class="mb-0 text-white">Vivid Smiles Dental Care</h5>
+                    <h5 class="mb-0 text-white">Vivid Smiles</h5>
                 </div>
                 <p class="text-light">Your smile, our priority! We provide comprehensive dental care with the latest technology and a caring approach.</p>
                 
@@ -24,19 +23,20 @@
                 <div class="contact-info">
                     <div class="d-flex align-items-center mb-2">
                         <i class="fas fa-map-marker-alt text-primary me-2"></i>
-                        <span class="text-light">123 Dental Street, Health City, HC 12345</span>
+                        <span class="text-light">Shop no. 20,  1st floor, Eros Sampoornam, S-Mart, 
+Plot no. GH-01, Sector 2, Greater Noida West</span>
                     </div>
                     <div class="d-flex align-items-center mb-2">
                         <i class="fas fa-phone text-primary me-2"></i>
-                        <span class="text-light">(555) 123-4567</span>
+                        <span class="text-light">(+91) 8920851141</span>
                     </div>
                     <div class="d-flex align-items-center mb-2">
                         <i class="fas fa-envelope text-primary me-2"></i>
-                        <span class="text-light">info@vividsmilesdental.com</span>
+                        <span class="text-light">care@vividsmilesd.in</span>
                     </div>
                     <div class="d-flex align-items-center">
                         <i class="fas fa-clock text-primary me-2"></i>
-                        <span class="text-light">Mon-Fri: 8AM-6PM, Sat: 9AM-3PM</span>
+                        <span class="text-light">Timings: 11AM-8PM</span>
                     </div>
                 </div>
             </div>

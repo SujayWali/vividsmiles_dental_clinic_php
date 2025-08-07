@@ -41,7 +41,7 @@ include 'includes/header.php';
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                <img src="/assets/images/image1.png"
                      alt="Our dental office" class="img-fluid about-image">
             </div>
         </div>
@@ -128,7 +128,7 @@ include 'includes/header.php';
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+                <img src="assets/images/image1.png" 
                      alt="Dental technology" class="img-fluid about-image">
             </div>
             <div class="col-lg-6">

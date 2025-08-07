@@ -1,8 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center" href="index.php">
-            <i class="fas fa-tooth text-primary me-2 fs-3"></i>
-            <span class="fw-bold text-primary">Vivid Smiles</span>
+            <img src="assets/images/logosvg.svg" alt="Vivid Smiles Logo" class="me-2" style="height: 60px; width: auto;">
         </a>
         
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

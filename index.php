@@ -12,7 +12,7 @@ include 'includes/header.php';
             <div class="col-lg-6">
                 <div class="hero-content text-white">
                     <h1 class="hero-title fade-in">Your Perfect Smile Starts Here</h1>
-                    <p class="hero-subtitle fade-in">Experience world-class dental care with our expert team. We're committed to giving you the healthy, beautiful smile you deserve.</p>
+                    <p class="hero-subtitle fade-in">Experience world-class dental care with personalized attention. With years of expertise and a commitment to excellence, we’re here to help you achieve a healthy, beautiful smile you deserve.</p>
                     <div class="fade-in">
                         <a href="contact.php#booking-form" class="btn btn-light btn-hero me-3">
                             <i class="fas fa-calendar-check me-2"></i>Book Appointment
@@ -38,18 +38,18 @@ include 'includes/header.php';
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" 
+                    <img src="/assets/images/smiles.jpg" 
                          alt="Modern Dental Office" class="img-fluid about-image">
                 </div>
             </div>
             <div class="col-lg-6">
-                <h2 class="section-title text-start">About Vivid Smiles Dental Care</h2>
-                <p class="section-subtitle text-start">Providing exceptional dental care for over 15 years</p>
-                <p class="mb-4">At Vivid Smiles Dental Care, we combine cutting-edge technology with compassionate care to deliver the best possible dental experience. Our team of experienced professionals is dedicated to helping you achieve optimal oral health in a comfortable, welcoming environment.</p>
+                <h2 class="section-title text-start">About Us</h2>
+                <p class="section-subtitle text-start">Providing exceptional dental care with personalized attention</p>
+                <p class="mb-4">At Vivid Smiles Complete Dental Care, we combine cutting-edge technology with compassionate care to deliver the best possible dental experience. Our dedicated professional is committed to helping you achieve optimal oral health in a comfortable, welcoming environment.</p>
                 
                 <ul class="feature-list">
                     <li><i class="fas fa-check-circle"></i> State-of-the-art dental technology</li>
-                    <li><i class="fas fa-check-circle"></i> Experienced and caring dental team</li>
+                    <li><i class="fas fa-check-circle"></i> Dedicated and caring dental professional</li>
                     <li><i class="fas fa-check-circle"></i> Comprehensive dental services</li>
                     <li><i class="fas fa-check-circle"></i> Patient-centered approach</li>
                 </ul>
@@ -116,13 +116,13 @@ include 'includes/header.php';
         <div class="row">
             <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
                 <div class="stat-item">
-                    <span class="stat-number">15+</span>
-                    <span class="stat-label">Years Experience</span>
+                    <span class="stat-number">100%</span>
+                    <span class="stat-label">Quality Care</span>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
                 <div class="stat-item">
-                    <span class="stat-number">5000+</span>
+                    <span class="stat-number">1000+</span>
                     <span class="stat-label">Happy Patients</span>
                 </div>
             </div>
