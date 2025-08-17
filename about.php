@@ -24,10 +24,15 @@ include 'includes/header.php';
     <div class="container">
         <div class="row align-items-center mb-5">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <h2 class="section-title text-start">Our Story</h2>
-                <p class="mb-4">Founded in 2008, Vivid Smiles Dental Care has been serving the community with exceptional dental services for over 15 years. What started as a small practice with a big vision has grown into a comprehensive dental care center, while maintaining our core values of compassionate care and clinical excellence.</p>
+                <h2 class="section-title text-start">Best Dentist in Greater Noida</h2>
+               
+                <p class="mb-4">
+                    Searching for a dental clinic near me? Vivid Smiles Dental Care is your trusted dentist in Greater Noida, serving Delhi NCR with personalized and advanced dental care.
+                </p>
                 
-                <p class="mb-4">Our state-of-the-art facility combines the latest dental technology with a warm, welcoming atmosphere. We believe that quality dental care should be accessible, comfortable, and tailored to each patient's unique needs.</p>
+                 <p class="mb-4">
+                    Our state-of-the-art facility combines the latest dental technology with a warm, welcoming atmosphere. We believe that quality dental care should be accessible, comfortable, and tailored to each patient's unique needs.
+                </p>
                 
                 <div class="row">
                     <div class="col-md-6">

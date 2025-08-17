@@ -28,5 +28,7 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <!-- Google Analytics 4 Tag -->
+     <?php include __DIR__ . '/ga4-tag.php'; ?>
 </head>
 <body>
