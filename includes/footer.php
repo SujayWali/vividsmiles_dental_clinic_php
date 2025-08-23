@@ -32,7 +32,7 @@ Plot no. GH-01, Sector 2, Greater Noida West</span>
                     </div>
                     <div class="d-flex align-items-center mb-2">
                         <i class="fas fa-envelope text-primary me-2"></i>
-                        <span class="text-light">care@vividsmilesd.in</span>
+                        <span class="text-light">care@vividsmiles.in</span>
                     </div>
                     <div class="d-flex align-items-center">
                         <i class="fas fa-clock text-primary me-2"></i>
